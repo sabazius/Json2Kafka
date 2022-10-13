@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Json2Kafka", "Json2KafkaCache\Json2Kafka.csproj", "{9B6CC539-C721-473E-BB42-DBAA23A7D358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B6CC539-C721-473E-BB42-DBAA23A7D358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6CC539-C721-473E-BB42-DBAA23A7D358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6CC539-C721-473E-BB42-DBAA23A7D358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6CC539-C721-473E-BB42-DBAA23A7D358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBEFE804-1E0E-4406-ADE3-BE58CAEC634A}
+	EndGlobalSection
+EndGlobal
